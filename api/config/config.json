@@ -1,0 +1,14 @@
+{
+  "development": {
+    "storage": "todo-restapi.db",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "storage": "todo-restapi.db",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "storage": "todo-restapi.db",
+    "dialect": "sqlite"
+  }
+}

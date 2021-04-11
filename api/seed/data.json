@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstName": "Peter",
+      "lastName": "British",
+      "emailAddress": "Peter@admin.com",
+      "password": "peterPassword123"
+    },
+    {
+      "firstName": "Andreas",
+      "lastName": "Norwegian",
+      "emailAddress": "Andreas@admin.com",
+      "password": "andreasPassword123"
+    }
+  ],
+  "tasks": [
+    {
+      "userId": 1,
+      "title": "Dishes",
+      "description": "Wash the leftover dishes you've accumulated over the last few weeks",
+      "deadline": "20/04/2021"
+    },
+    {
+      "userId": 2,
+      "title": "Vacuum",
+      "description": "Vacuum the livingroom, kitcen and hallway",
+      "deadline": "01/05/2021"
+    },
+    {
+      "userId": 2,
+      "title": "Work on TODO app",
+      "description": "Work on implementing the required code to finish off the TODO Colab project",
+      "deadline": "Unknown"
+    }
+  ]
+}
